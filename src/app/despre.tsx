@@ -6,7 +6,7 @@ export default function Despre() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Despre</Text>
-      <Text>Aplicația mea, făcută de Cris.</Text>
+      <Text>Despre aplicație.</Text>
     </View>
   );
 }
